@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="LAST MEAL">
+  <!-- The game's own image: an enemy blob on the ink floor. Two eyes, because
+       everything down here is looking at you and is also dinner. -->
+  <rect width="64" height="64" rx="14" fill="#16111a"/>
+  <path d="M32 12c10.5 0 17 6.2 17 15.5 0 9.8-6 17.5-17 17.5s-17-7.7-17-17.5C15 18.2 21.5 12 32 12z"
+        fill="#e0384f"/>
+  <path d="M32 12c10.5 0 17 6.2 17 15.5 0 2-.25 3.9-.72 5.6-2.1 1.5-8.3 2.4-16.28 2.4s-14.18-.9-16.28-2.4A20.6 20.6 0 0 1 15 27.5C15 18.2 21.5 12 32 12z"
+        fill="#ff6b35" opacity=".28"/>
+  <circle cx="25.5" cy="28" r="3.1" fill="#16111a"/>
+  <circle cx="38.5" cy="28" r="3.1" fill="#16111a"/>
+  <rect x="15" y="50" width="34" height="4" rx="2" fill="#86b04f"/>
+</svg>
